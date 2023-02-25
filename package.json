@@ -1,0 +1,15 @@
+{
+  "name": "http-request-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "xgugugu@github",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "node-gtk": "^0.11.0"
+  },
+  "scripts": {
+    "test": "node ./main.js"
+  }
+}
